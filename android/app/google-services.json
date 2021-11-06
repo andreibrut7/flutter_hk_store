@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "724573111418",
+    "firebase_url": "https://basedemo-22225.firebaseio.com",
+    "project_id": "basedemo-22225",
+    "storage_bucket": "basedemo-22225.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724573111418:android:d9d6c7b729e2d17f9227c3",
+        "android_client_info": {
+          "package_name": "com.techangels.basedemos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724573111418-2jtqn8vr4tgc7ufiujuq0hnhpiq2suh8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techangels.basedemos",
+            "certificate_hash": "28ed6a72301a8aa748f3db3570dd0d8397d837f1"
+          }
+        },
+        {
+          "client_id": "724573111418-kpvjr9uek6i9eiiicvo7ie1b1guq237e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDinHQ9ZBf0pVq2FQ7yWbNJs5n22ijzwVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724573111418-kpvjr9uek6i9eiiicvo7ie1b1guq237e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "724573111418-gfhinkbo3amn9s3mc48g82aoajnkfupu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techangels.basedemos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
